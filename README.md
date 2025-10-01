@@ -36,15 +36,18 @@ The project demonstrates the trade-off between **capacity** (multiplexing) and *
 - **Observation:** Alamouti coding achieves **better BER performance** in low-to-medium SNR, while spatial multiplexing trades off reliability for **higher data rates**.  
 - **Key Insight:** This reflects the real-world MIMO trade-off central to LTE/5G system design.  
 
-![BER vs SNR](plot.png)  
+![BER vs SNR](mimo_plot.png)  
 *(BER vs SNR comparison: Spatial Multiplexing vs. Alamouti Coding)*  
 
 ---
 
 ## 📂 Repository Structure  
-├── MIMO_simulation.m # MATLAB script (main code)
-├── BER_vs_SNR_plot.png # Result plot (output figure)
-└── README.md # Project documentation
+
+├── MIMO_simulation.m - MATLAB script (main code)
+
+├── BER_vs_SNR_plot.png - Result plot (output figure)
+
+└── README.md - Project documentation
 
 ---
 
@@ -55,4 +58,4 @@ The project demonstrates the trade-off between **capacity** (multiplexing) and *
 ---
 
 ## 🔗 Connect  
-If you found this useful or would like to collaborate on wireless communication projects, connect with me on [LinkedIn](your-linkedin-profile).  
+If you found this useful or would like to collaborate on wireless communication projects, connect with me on [LinkedIn](www.linkedin.com/in/akshat-gupta-9b649a378).  
